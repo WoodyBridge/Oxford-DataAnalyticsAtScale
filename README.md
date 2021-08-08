@@ -1,5 +1,5 @@
 # Oxford-DataAnalyticsAtScale
-MSc Social Data Science @ Oxford Uni - Module Data Analytics at Scale
+MSc Social Data Science @ Oxford Uni 2018/2019 - Module Data Analytics at Scale
 
 This project is my summative for the course Data Analytics at Scale. 
 
